@@ -4,6 +4,9 @@ A full-stack MERN application for shortening URLs with user authentication, anal
 
 ![Tiny Link Screenshot](<ChatGPT Image Jun 17, 2026, 08_52_58 PM.png>)
 
+
+
+
 ## ✨ Features
 
 - **User Authentication**: Secure login/signup with JWT
@@ -43,7 +46,7 @@ A full-stack MERN application for shortening URLs with user authentication, anal
 1. Clone the repository:
 
 ```bash
-
+git clone https://github.com/Sanjay-Parth/Tiny-Link.git
 ```
 
 2. Set up the backend:
