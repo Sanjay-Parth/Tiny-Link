@@ -2,10 +2,7 @@
 
 A full-stack MERN application for shortening URLs with user authentication, analytics, and QR code generation.
 
-![Tiny Link Screenshot](<ChatGPT Image Jun 17, 2026, 08_52_58 PM.png>)
-
-
-
+<img width="1781" height="883" alt="ChatGPT Image Jun 17, 2026, 08_52_58 PM" src="https://github.com/user-attachments/assets/0e433606-731d-48c4-bc5f-5f0d8f91f736" />
 
 ## ✨ Features
 
